@@ -1,0 +1,12 @@
+<div style="display: block;width: 80%;">
+  <canvas
+          baseChart
+          [datasets]="chartData"
+          [labels]="chartLabels"
+          [legend]="chartLegend"
+          [options]="chartOptions"
+          [type]="chartType"
+          >
+  </canvas>
+</div>
+<button (click)="addData()">Add Data</button>

@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "countyname",
+    "datatables",
+    "firebase",
+    "firebaseui",
+    "Infelem"
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": false
+  }
+}
